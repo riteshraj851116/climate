@@ -1,0 +1,16 @@
+/* *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+} */
+.image img{
+    height: 890px;
+    /* height: 896px; */
+    width: 709px;
+    /* height: 790px;
+    width: 60px; */
+    /* margin: 2px; */
+    /* margin-top: 1px; */
+    /* border-radius: 8px; */
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}

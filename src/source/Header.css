@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    height: 50px;
+    text-align: center;
+    padding-top: 10px;
+    /* background-color: ; */
+    background-color: rgba(0,0,0,0.4)!important; 
+    backdrop-filter: saturate(180%) blur(20px);
+    -webkit-backdrop-filter: saturate(180%) blur(20px);
+    color: white;
+}

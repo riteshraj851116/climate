@@ -1,0 +1,79 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.weather{
+  height: 400px;
+  width: 700px;
+  border-radius: 10px;
+  
+  text-align: center;
+  background-color: #448a99;
+  position: absolute;
+  top: 10px;
+  right: 16px;
+}
+.title{
+  font-size: 80px;
+  color:white;
+  padding: 30px;
+  margin-top: 40px;
+  text-shadow: 2px 2px black;
+}
+.home{
+  text-align: inherit;
+  margin-top: 10px;
+  height: 150px;
+  /* width: 600px; */
+  /* max-width: 600px; */
+  padding: 10px;
+  background-color: rgb(51, 75, 75);
+color: bisque;
+gap: 60px;
+box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 2px, rgba(54, 53, 53, 0.677) 0px 2px 4px, rgba(0, 0, 0, 0.07) 0px 4px 8px, rgba(0, 0, 0, 0.07) 0px 8px 16px, rgba(0, 0, 0, 0.07) 0px 16px 32px, rgba(0, 0, 0, 0.07) 0px 32px 64px;
+border-radius: 1px;
+}
+.weather{
+  box-shadow: rgba(44, 44, 51, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+}
+.clock{
+  width: 700px;
+  font-size: 4rem;
+  text-align: center;
+   height: 90px;
+   background-color: #448a99;
+ 
+  padding: 80px; 
+   position: absolute;
+  top: 430px;
+  right: 16px;
+  height: 300px;
+  /* width: 700px; */
+  
+
+  border-radius: 10px;
+  color:white;
+  text-shadow: 2px 2px black;
+  box-shadow: rgba(44, 44, 51, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+
+}
+.mai{
+  text-shadow: 2px 2px black;
+  padding: 15px;
+  border-radius: 10px;
+  height: 130px;
+  text-align: center;
+  width: 700px;
+  color: white;
+  font-size: 40px;
+  position: absolute;
+  top: 750px;
+  right: 16px;
+  /* left: 10px; */
+  
+
+  
+  background-color: #35b3cf;
+
+}
